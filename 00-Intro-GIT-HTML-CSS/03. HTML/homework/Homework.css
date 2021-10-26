@@ -1,0 +1,17 @@
+h1{
+    color: #125C13;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background-color: #F4A442;
+    padding: 50px;
+    border: 15px solid #3E7C17;
+}
+#SpanId{
+    font-size: 18px;
+    margin: 50px;
+}
